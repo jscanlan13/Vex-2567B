@@ -9,9 +9,9 @@ catapult, and a climb.
   <img src="docs/drivetrain-closeup.jpg" width="260" alt="Close-up of the robot's geared drivetrain and V5 brain">
 </p>
 
-This is team code. The drivetrain control comes from two open-source
-libraries, credited below. What we wrote on top of them is the robot
-configuration, the PID tuning, the driver controls, and the autonomous
+I was the team's programmer. The low-level drivetrain control comes from two
+open-source libraries, credited below. What I wrote on top of them is the
+robot configuration, the PID tuning, the driver controls, and the autonomous
 routines.
 
 ## What's here
