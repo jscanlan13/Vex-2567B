@@ -1,0 +1,8 @@
+bin/
+.d/
+.cache/
+firmware/
+*.o
+*.elf
+*.bin
+.vscode/
