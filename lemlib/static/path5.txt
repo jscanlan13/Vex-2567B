@@ -1,0 +1,25 @@
+-24, -9.248, 80.581
+-24.319, -7.274, 81.299
+-24.522, -5.285, 76.299
+-24.639, -3.288, 69.294
+-24.768, -1.292, 61.496
+-25.124, 0.672, 52.571
+-26.08, 2.409, 45.277
+-27.682, 3.588, 66.941
+-29.548, 4.301, 77.441
+-31.494, 4.758, 81.226
+-33.468, 5.077, 83.48
+-35.454, 5.312, 77.562
+-37.446, 5.487, 70.682
+-39.442, 5.625, 63.055
+-41.439, 5.732, 54.369
+-43.437, 5.817, 44
+-45.399, 5.887, 0
+-45.399, 5.887, 0
+-65.386, 6.596, 0
+endData
+255
+87
+200
+-24, -9.248, -26.241, 2.095, -19.856, 5.089, -45.399, 5.887
+#PATH.JERRYIO-DATA {"appVersion":"0.6.0","format":"LemLib v0.4.x (inch, byte-voltage)","gc":{"robotWidth":18,"robotHeight":18,"robotIsHolonomic":false,"showRobot":true,"uol":2.54,"pointDensity":2,"controlMagnetDistance":1.968503937007874,"fieldImage":{"displayName":"VRC 2024 - Over Under (Skill)","signature":"VRC 2024 - Over Under (Skill)","origin":{"__type":"built-in"}}},"paths":[{"segments":[{"controls":[{"uid":"njd7ELqUTe","x":-24,"y":-9.248,"lock":false,"visible":true,"heading":0,"__type":"end-point"},{"uid":"nz3be5xFls","x":-26.241401315220212,"y":2.0953210175651122,"lock":false,"visible":true,"__type":"control"},{"uid":"UCphnmjslr","x":-19.855661071212253,"y":5.088745522194341,"lock":false,"visible":true,"__type":"control"},{"uid":"lehzJPJXrg","x":-45.398622047244096,"y":5.886854287444839,"lock":false,"visible":true,"heading":270,"__type":"end-point"}],"speedProfiles":[],"lookaheadKeyframes":[],"uid":"aCXDMLf4jG"}],"pc":{"speedLimit":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":127,"label":"127"},"step":1,"from":44,"to":87},"bentRateApplicableRange":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":1,"label":"1"},"step":0.001,"from":0,"to":0.088},"maxDecelerationRate":255},"name":"Path5","uid":"sqPJhIHXIL","lock":false,"visible":true}]}
