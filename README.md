@@ -22,6 +22,23 @@ routines.
 | [`lemlib/`](lemlib/) | A port to LemLib with IMU-based odometry and **pure pursuit** path following. Paths were drawn as waypoint files (`static/*.txt`) and embedded at build time with `ASSET()`. |
 | [`lemlib-first-port/`](lemlib-first-port/) | The first LemLib attempt: motor groups, drivetrain geometry, and lateral and angular PD controllers. |
 
+## CAD
+
+The robot was designed in Autodesk Inventor before it was built. These are
+renders from the team's assemblies.
+
+<p align="center">
+  <img src="docs/cad/robot-assembly.jpg" width="400" alt="Inventor assembly of the Over Under robot: drivetrain, towers and crossbar">
+  <img src="docs/cad/drive-base.jpg" width="400" alt="Inventor render of a six-wheel drive base with omni wheels and geared drive">
+</p>
+<p align="center">
+  <img src="docs/cad/drive-side.jpg" width="400" alt="One side of the drive: three omni wheels geared together along a C-channel rail">
+  <img src="docs/cad/c-clamp.jpg" width="400" alt="Inventor model of a C-channel clamp bracket">
+</p>
+
+The drive-side model is from *First Base Idea After Worlds*, the redesign
+that followed the season's World Championship.
+
 ## Engineering notes
 
 - **Two sets of tuned PID constants.** `worlds-ez-template/src/autons.cpp` has
